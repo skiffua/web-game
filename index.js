@@ -1,3 +1,3 @@
 var a = 100;
-console.log('sddfdgd');
+console.log('100');
 //# sourceMappingURL=index.js.map
